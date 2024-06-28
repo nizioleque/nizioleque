@@ -1,4 +1,9 @@
- ![gh2](https://github.com/nizioleque/nizioleque/assets/92390086/da3a381b-29fd-4b5a-9c92-f46666ff59af)
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nizioleque/nizioleque/assets/92390086/da3a381b-29fd-4b5a-9c92-f46666ff59af">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nizioleque/nizioleque/assets/92390086/5ad45e68-d837-45e4-a27c-5cafb559df08">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/nizioleque/nizioleque/assets/92390086/da3a381b-29fd-4b5a-9c92-f46666ff59af">
+</picture>
 
 > [!IMPORTANT]
 > 🔍👀 I'm currently looking for job opportunies as a frontend or full stack developer! Check out my [CV](https://github.com/user-attachments/files/16036111/CV.Norbert.Niziolek.pdf)
