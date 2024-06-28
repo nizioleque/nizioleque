@@ -1,4 +1,4 @@
-![gh](https://github.com/nizioleque/nizioleque/assets/92390086/1e1fd257-a74e-4403-ab16-fb0f416c7402)
+ ![gh2](https://github.com/nizioleque/nizioleque/assets/92390086/da3a381b-29fd-4b5a-9c92-f46666ff59af)
 
 > [!IMPORTANT]
 > 🔍👀 I'm currently looking for job opportunies as a frontend or full stack developer! Check out my [CV](https://github.com/user-attachments/files/16036111/CV.Norbert.Niziolek.pdf)
