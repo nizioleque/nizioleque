@@ -7,4 +7,4 @@
 
 a frontend developer based in Warsaw, Poland, soon moving to Madrid, Spain.
 
-#### Visit my [portfolio](https://niziolek.dev/) to learn more about me and my projects!
+### Visit my [portfolio](https://niziolek.dev/) to learn more about me and my projects!
