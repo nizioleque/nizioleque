@@ -11,7 +11,7 @@
 
 ## Hi! 👋 I'm Norbert Kosma Niziołek
 
-> a frontend developer based in Warsaw, Poland, soon moving to Madrid, Spain.
+> a passionate frontend developer based in Warsaw, Poland, soon moving to Madrid, Spain.
 
 **Visit my [🌍 portfolio](https://niziolek.dev/) to learn more about me and my projects!**
 
