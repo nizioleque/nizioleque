@@ -6,7 +6,7 @@
 
 ## Hi! 👋 I'm Norbert Niziołek
 
-a frontend developer based in Warsaw, Poland, soon moving to Madrid, Spain.\
+a frontend developer based in Warsaw, Poland, soon moving to Madrid, Spain.
 
 Passionate about _beautiful interfaces_ which enable _great user experiences_.
 
