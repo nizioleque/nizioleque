@@ -6,7 +6,7 @@
 </picture>
 
 > [!IMPORTANT]
-> 🔍👀 I'm currently looking for job opportunies as a frontend or full stack developer! Check out my [CV](https://github.com/user-attachments/files/16176701/CV.Norbert.Niziolek.pdf)
+> 🔍👀 I'm currently looking for job opportunies as a frontend or full stack developer! Check out my [CV](https://niziolek.dev/cv)
 
 
 
