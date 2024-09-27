@@ -24,6 +24,12 @@
 - [⚛️ React Props Sync](https://github.com/herohunt-ai/react-props-sync) • VS Code extension • Sync props interface with component's parameter list
 - [💵 Splitsmart](https://splitsmart.niziolek.dev) • Flutter & Python FastAPI app • Split bills with your friends easily using OCR receipt scanning
 
+## Currently working on
+
+- Rewriting [🖱 Mouse Pinch-To-Zoom](https://github.com/nizioleque/mouse-pinch-to-zoom) and [⏩ Youtube Custom Speed](https://github.com/nizioleque/youtube-custom-speed) using a modern toolset with the [🛠️ HeroHunt.ai Chrome Extension Template](https://github.com/herohunt-ai/chrome-extension-react-mui)
+- Implementing long-awaited improvements and bug fixes to all my extensions
+- Preparing blog posts about the challenges that I managed to solve with the [🛠️ HeroHunt.ai Chrome Extension Template](https://github.com/herohunt-ai/chrome-extension-react-mui)
+
 ## Support
 
 If any of my open-source projects helped you out, please consider [**buying me a beer 🍺**](https://www.buymeacoffee.com/nizioleque)
